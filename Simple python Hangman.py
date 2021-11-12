@@ -1,5 +1,8 @@
 import random #brings in random function
-
+#Made By Blake McCullough
+#Discord - Spoiled_Kitten#4911
+#Github - https://github.com/Blake-McCullough/
+#Email - privblakemccullough@protonmail.com
 
 print("Random dice roller by Blake McCullough") #displays creators name
 print("Would you like the dice to")#asks what the user would like the program to do
